@@ -29,7 +29,7 @@ redshift_development:
 ```
 
 ## options
-```html
+
 <table>
   <tr>
     <th>option</th>
@@ -44,7 +44,7 @@ redshift_development:
     <td>force timezone for datetime when select values. ActiveRecord default timezone will set if not given.</td>
   </tr>
 </table>
-```
+
 
 ## Have you considered using Partitioned gem?  It works with redshift!
 
